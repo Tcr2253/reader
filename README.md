@@ -1,15 +1,19 @@
 # reader
 
-Ms James: This morning's class is about first aid, or giving someone basic medical help.Let's imagine an accident. A boy is lying at the bottom of the stairs. He isn't moving or making a sound. He is in pain. What can we do to help him?
-Betty: First of all, find out what's wrong with him.
-Ms James: How do we do that?
-Betty: Ask him.
-Ms James: OK. But he could have trouble hearing you or speaking to you.
-Lingling: Shout for help? Call 120?
-Ms James: Good idea, but what should we do before help arrives?
-Tony: Make him comfortable.
-Ms James: And how can we do that?
-Tony: Lift him up and sit him on a chair?
-Ms James: No, that could be harmful! You could drop him and hurt him even more. Betty, you must know!You did some basic medical training.
-Betty: Make sure he's warm. Cover him with a coat.
-Ms James: That's such good advice that you could be a doctor, Betty!
+Hi Lingling,
+
+Thanks for your last message. It was great to hear from you, and I can't wait to meet you.
+
+I hope you will know me from my photo when I arrive at the airport. I'm quite tall, with short fair hair, and I wear glasses. I'll wear jeans and a T-shirt for the journey, but I'll also carry my warm coat. I've got your photo- you look very pretty. I'm sure we'll find each other!
+
+Thanks for telling me about your hobbies. You sound just like me! I spend a lot of time playing classical music with my friends at school, but I also like dance music- I love dancing! I enjoy sports as well, especially tennis. My brother is in the school tennis team- I'm very proud of him! He's good at everything, but I'm not. Sometimes I get bad marks at school, and I feel sad. I should work harder.
+
+You asked me," How do you feel about coming to China?" Well, I often feel a bit sad at first when I leave my mum and dad for a few days, and I'm quite shy when I'm with strangers. I feel nervous when I speak Chinese, but I'll be fine in
+
+a few days. I'm always sorry when I don't know how to do things in the right way, so please help me when I'm with you in China! Oh, I'm afraid of flying too.But I can't tell you how excited I am about going to China!
+
+See you next week!
+
+Love,
+
+Sally
