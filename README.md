@@ -1,9 +1,37 @@
 # reader
 
-Scientists think that there has been life on the earth for hundreds of millions of years. However, we have not found life on any other planets yet.
+Doctor: How can I help you?
 
-The earth is a planet and it goes around the sun. Seven other planets also go around the sun. None of them has an environment like that of the earth, so scientists do not think they will find life on them. The sun and its planets are called the solar system, and our solar system is a small part of a much larger group of stars and planets, called the Galaxy or the Milky Way. There are billions of stars in the Galaxy, and our sun is only one of them.
+Daming: I feel ill. I've got a stomach ache and my head hurts.
 
-Scientists have also discovered many other galaxies in the universe. They are very far away and their light has to travel for many years to reach us. So how large is the universe? It is impossible to imagine.Scientists have sent spaceships to the planet Mars to take photos. They have even sent spaceships to travel outside the solar system. However, no spaceship has travelled far enough to reach other stars in our Galaxy.
+Doctor: How long have you been like this?
 
-Scientists have always asked the questions: with so many stars in the universe, are we alone, or is there life out there in space? Have there been visitors to the earth from other planets? Why has no one communicated with us? We do not know the answers... yet.
+Daming: Since Friday. I've been ill for about three days!
+
+Doctor: I see. Have you caught a cold?
+
+Daming: I don't think so.
+
+Doctor: Let me take your temperature.. Hmm, there's no fever. What kind of food do you eat?
+
+Daming: Usually fast food.
+
+Doctor: Do you have breakfast?
+
+Daming: No, not usually.
+
+Doctor: That's the problem! Fast food and no breakfast. That's why you've got a stomach ache.
+
+Daming: What about the headache?
+
+Doctor: Do you do any exercise?
+
+Daming: Not really. I haven't done much exercise since I got my computer last year.
+
+Doctor: You spend too much time in front of the computer. It can be very harmful to your health.
+
+Daming: OK, so what should I do?
+
+Doctor: Well, don't worry. It's not serious. First, stop eating fast food and have breakfast every day. Second, get some exercise, such as running. And I'll give you some medicine. Take it three times a day.
+
+Daming: Thank you, doctor.
